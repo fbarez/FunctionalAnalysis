@@ -1,2 +1,2 @@
 # FunctionalAnalysis
-FunctionalAnalysis course
+FunctionalAnalysis course project
