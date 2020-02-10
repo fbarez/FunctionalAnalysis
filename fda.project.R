@@ -1,6 +1,6 @@
 ##################################################################################################################################################
-#### Functional Data Anaysis Projec; Fazl Barez
-###Inital Study carried out by  Oxfords Silverma
+#### Functional Data Analysis Project; Fazl Barez
+### Initial Study carried out by  James O. Ramsay and Bernard W. Silverman :http://www.stats.ox.ac.uk/~silverma/fdacasebook/
 ##################################################################################################################################################
 #### Project Tittle: Predicting Lip Acceleration from EMG Activity
 #### Annotated Analyses in R-Studio
@@ -27,7 +27,7 @@ EMGmat <- read.table("http://www.stats.ox.ac.uk/~silverma/fdacasebook/EMG.dat", 
 #######
 
 ###################################################
-# Exporting the data sets in case Oxford stops acess
+# Exporting the data sets in case Oxford removes access
 ###################################################
 
 # write.table(lipposmat, "~/Desktop/Funcational Anlaysis Project/lipposmat.txt")
