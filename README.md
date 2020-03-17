@@ -2,4 +2,5 @@
 FunctionalAnalysis course project 
 
 motivated by jp
+
 Supervised by SR.
