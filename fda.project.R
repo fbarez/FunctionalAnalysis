@@ -23,7 +23,7 @@ lipmat  <- read.table("http://www.stats.ox.ac.uk/~silverma/fdacasebook/LipAcc.da
 EMGmat <- read.table("http://www.stats.ox.ac.uk/~silverma/fdacasebook/EMG.dat", header = F)
 
 #######
-# lip position is not being used in our analyses, just included to check other features.
+# lip position is not being used in our analyses, just included to check other features. Lower lip only.
 #######
 
 ###################################################
